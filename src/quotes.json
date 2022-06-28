@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "quote" : "I find that the harder I work, the more luck I seem to have.",
+      "quoteAuthor": "Thomas Jefferson"
+    },
+    {
+      "id": 2,
+      "quote" : "The way to get started is to quit talking and begin doing.",
+      "quoteAuthor": "Walt Disney"
+    },
+    {
+      "id": 3,
+      "quote" : "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "quoteAuthor": "Dr. Seuss"
+    }
+]
